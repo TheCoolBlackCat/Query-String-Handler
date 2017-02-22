@@ -38,6 +38,7 @@ Either download or attach the production code found at the URL below
 
 ### Usage
 Even though this script creates three variables, you actually only need to reference one object to access values.
+
 See ['Reference'](#reference) below for the complete list of variables
 
 #### To Access Values
@@ -50,10 +51,13 @@ Where 'name' is any variable you are accessing, and 'value' is the value of that
 
 ### Reference
 The following variables are created by the script
+
 They are listed in the order of their declaration
 
 **queryString** Stores the full length query string as an array, with values that look like ["name=value"]
+
 **query** Initially declared blank, it stores the queries as an object, and has the contents of the query string added to it
+
 **temp** Temporarily stores the values in the loop as an array. For each item, it stores the name at index '0' and the value at index '1'
 
 **N.B.** To find out more about how the code works, refer to the comments in the 'code.js' file
