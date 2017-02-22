@@ -41,6 +41,7 @@ Even though this script creates three variables, you actually only need to refer
 
 See ['Reference'](#reference) below for the complete list of variables
 
+
 #### To Access Values
     query.name  // = "value"
     query["name"] // = "value"
@@ -53,6 +54,7 @@ Where 'name' is any variable you are accessing, and 'value' is the value of that
 The following variables are created by the script
 
 They are listed in the order of their declaration
+
 
 **queryString** Stores the full length query string as an array, with values that look like ["name=value"]
 
