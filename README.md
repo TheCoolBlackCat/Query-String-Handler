@@ -8,11 +8,15 @@ This script simply converts this...
 
     ?name="Tim"&job="coder"&id="123"
     
-To this, allowing the values to be easily used...
+To this...
 
     query.name = "Tim"
     query.job = "coder"
     query.id = "123"
+    
+...allowing the variables to be easily used.
+
+
 When I first wanted to use variables from a query string, I thought there must be a built in function or method to grab them.
 
 Apparently not, so I wrote this first for my own use, but then thought I'd share it because of how helpful it might be.
