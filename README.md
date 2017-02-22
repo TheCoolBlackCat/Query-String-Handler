@@ -1,5 +1,5 @@
 # Query-String-Handler
-A simple snippet to deal convert a query string to an easy to use object
+A simple snippet to convert a query string to an easy to use object
 
 Go to: [About](#about) | [Setup](#setup) | [Usage](#usage) | [Reference](#reference)
 
@@ -8,7 +8,7 @@ This script simply converts this...
 
     ?name="Tim"&job="coder"&id="123"
     
-To this...
+...to this...
 
     query.name = "Tim"
     query.job = "coder"
@@ -34,7 +34,7 @@ Apparently not, so I wrote this first for my own use, but then thought I'd share
 #### Method 2: Embed the code
 Either download or attach the production code found at the URL below
 
-    https://thecoolblackcat.github.io/Query-String-Handler/script.min.js
+    https://thecoolblackcat.github.io/QueryStringHandler/script.min.js
 
 ### Usage
 Even though this script creates three variables, you actually only need to reference one object to access values.
