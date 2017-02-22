@@ -1,4 +1,4 @@
-# Query-String-Handler
+# Query String Handler
 A simple snippet to convert a query string to an easy to use object
 
 Go to: [About](#about) | [Setup](#setup) | [Usage](#usage) | [Reference](#reference)
