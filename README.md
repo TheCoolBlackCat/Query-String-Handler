@@ -42,7 +42,8 @@ Even though this script creates three variables, you actually only need to refer
 See ['Reference'](#reference) below for the complete list of variables
 
 
-#### To Access Values
+To Access Values...
+
     query.name  // = "value"
     query["name"] // = "value"
     
